@@ -1,4 +1,4 @@
-# About this repository
+## About this repository
 
 This repository contains Python, R and other code used in the manuscript "Combating subclonal evolution of resistant cancer phenotypes." In this manuscript, we analyzed the evolution of four ER+ breast cancers over 2-15 years using whole-genome sequencing (WGS), whole-exome sequencing (WES), bulk RNA-Seq, and single-cell RNA-Seq (scRNA-Seq) of longitudinal patient samples. For questions, please contact me (Samuel Brady) at Samuel.Brady@utah.edu.
 
