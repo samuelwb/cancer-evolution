@@ -1,4 +1,4 @@
-#About this repository
+# About this repository
 
 This repository contains Python, R and other code used in the manuscript "Combating subclonal evolution of resistant cancer phenotypes." In this manuscript, we analyzed the evolution of four ER+ breast cancers over 2-15 years using whole-genome sequencing (WGS), whole-exome sequencing (WES), bulk RNA-Seq, and single-cell RNA-Seq (scRNA-Seq) of longitudinal patient samples. For questions, please contact me (Samuel Brady) at Samuel.Brady@utah.edu.
 
@@ -14,5 +14,5 @@ Here you can find our code for analyzing each of these data types, divided into 
 8.  **SnvWgs**: Code for identifying SNVs and indels from WGS and for then identifying mutation clusters in longitudinal samples for subclone analysis. Also code for identifying mutation context and mutation signatures of SNVs.
 9.  **StructuralWgs**: Code for identifying structural variants (translocations, large deletions, inversions, and duplications) from WGS data.
 
-Please click "Source" at the left, then the subfolder of interest, to view the code. Each subfolder contains a README file describing how to run the code in the folder.
+Please click the subfolder of interest to view the code. Each subfolder contains a README file describing how to run the code in the folder.
 
