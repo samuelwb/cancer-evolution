@@ -1,0 +1,13 @@
+#!/bin/bash
+
+message="$1"
+
+if [ "$message" == "" ]
+then
+  echo You forgot to specify a message.
+  exit
+fi
+
+git add --all .
+git commit -m "$message"
+git push -u origin master
