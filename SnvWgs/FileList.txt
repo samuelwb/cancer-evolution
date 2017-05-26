@@ -1,0 +1,5 @@
+Patient1_Germline.bam
+Patient1_Cancer1.bam
+Patient1_Cancer2.bam
+Patient1_Cancer3.bam
+Patient1_Cancer4.bam

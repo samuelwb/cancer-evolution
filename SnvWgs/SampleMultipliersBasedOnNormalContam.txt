@@ -1,0 +1,5 @@
+Patient1_Germline	1.0
+Patient1_Cancer1	1.17
+Patient1_Cancer2	1.09
+Patient1_Cancer3	1.32
+Patient1_Cancer4	2.6
