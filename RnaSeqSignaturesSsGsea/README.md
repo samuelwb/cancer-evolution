@@ -1,4 +1,4 @@
-#Signature analysis of bulk and single-cell RNA-Seq data
+## Signature analysis of bulk and single-cell RNA-Seq data
 
 This folder contains scripts for running pathway analysis on single-cell or bulk RNA-Seq
 data using ssGSEA. The ssGSEA.sh script calls the ssGSEA.r script. The user can modify

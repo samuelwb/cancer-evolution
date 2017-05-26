@@ -1,4 +1,4 @@
-# SNV/indel identification and subclone analysis
+## SNV/indel identification and subclone analysis
 
 This folder contains scripts for identifying somatic and germline SNVs and indels
 from aligned BAM files (generated using BWA or other approaches; please see "Alignment"

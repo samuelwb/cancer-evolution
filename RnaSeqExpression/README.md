@@ -1,4 +1,4 @@
-#RNA-Seq expression analysis
+## RNA-Seq expression analysis
 
 This folder contains scripts for determining gene expression from RNA-Seq fastq files, including
 both bulk RNA-Seq and scRNA-Seq. These scripts are compatible with either paired- or single-end data. 

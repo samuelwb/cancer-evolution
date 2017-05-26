@@ -1,4 +1,4 @@
-#RNA-Seq fusion transcript identification
+## RNA-Seq fusion transcript identification
 
 This folder contains code for identifying fusion transcripts
 from RNA-Seq data. It requires installation of TopHat. (We used

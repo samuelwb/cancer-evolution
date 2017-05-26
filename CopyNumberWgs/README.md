@@ -1,4 +1,4 @@
-#Copy number analysis
+## Copy number analysis
 
 This folder contains scripts for identifying copy number alterations (CNAs) from
 tumor WGS data. It requires an aligned BAM file for each sample as input. (See "Alignment"

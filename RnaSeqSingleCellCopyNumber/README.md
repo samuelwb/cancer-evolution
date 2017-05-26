@@ -1,4 +1,4 @@
-# Inferring copy number from single-cell RNA-Seq data
+## Inferring copy number from single-cell RNA-Seq data
 
 This folder contains scripts for determining copy number from single-cell RNA-Seq data based
 on the algorithm published by Tirosh et al. (Science 352:6282, 2016).

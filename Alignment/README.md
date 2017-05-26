@@ -1,4 +1,4 @@
-#DNA sequencing alignment
+## DNA sequencing alignment
 
 This folder contains one bash script for BWA alignment within the Speed-Seq suite, 
 called SpeedSeqAlign.sh. Input includes paired-end fastq files from WGS and other
