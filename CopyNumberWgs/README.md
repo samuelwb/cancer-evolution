@@ -5,7 +5,7 @@ tumor WGS data. It requires an aligned BAM file for each sample as input. (See "
 folder for code to generate aligned BAM files using BWA in the Speed-Seq suite.)
 The inputs for each script are indicated in comments at the top of the script itself.
 
-Two of the scripts (steps f and g) adjust turmor copy number data for normal contamination so 
+Two of the scripts (steps f and g) adjust tumor copy number data for normal contamination so 
 that absolute copy peaks will be centered at 1, 2, 3, 4, etc. instead of shifted towards
 2, which occurs in samples with even minimal normal contamination. This process is described
 schematically below. This process aids in determining tumor purity and is essential for
