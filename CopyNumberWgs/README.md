@@ -9,7 +9,7 @@ Two of the scripts (steps f and g) adjust turmor copy number data for normal con
 that absolute copy peaks will be centered at 1, 2, 3, 4, etc. instead of shifted towards
 2, which occurs in samples with even minimal normal contamination. This process is described
 schematically below. This process aids in determining tumor purity and is essential for
-identify subclonal CNAs (with copy number between integer values).
+identifying subclonal CNAs (with copy number between integer values).
 
 ![picture](img/CopyShift.png)
 
