@@ -20,7 +20,7 @@ script for details about how to execute the script):
 	normal cell (such as HMEC) expression data, which is added on as additional columns,
 	for normalization.
 
-* **b_SingleCellCna.sh**: Infers the copy number of each single-cell using 101-gene window expression
+* **b_SingleCellCna.sh**: Infers the copy number of each single cell using 101-gene window expression
 	averages.
 
 * **c_RemoveNormal.sh**: Removes normal cells used for normalization from the previous step's output.
