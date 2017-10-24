@@ -2,7 +2,7 @@
 
 This repository contains Python, R and other code used in the manuscript "Combating subclonal evolution of resistant cancer phenotypes." In this manuscript, we analyzed the evolution of four ER+ breast cancers over 2-15 years using whole-genome sequencing (WGS), whole-exome sequencing (WES), bulk RNA-Seq, and single-cell RNA-Seq (scRNA-Seq) of longitudinal patient samples. For questions, please contact me (Samuel Brady) at Samuel.Brady@utah.edu.
 
-DROPBOX! Here you can find our code for analyzing each of these data types, divided into the following subfolders, each of which has its own README:
+Here you can find our code for analyzing each of these data types, divided into the following subfolders, each of which has its own README:
 
 1.  **Alignment**: Code for aligning DNA fastq reads to the human genome to create an aligned BAM file, providing the basis for variant identification approaches described in other folders.
 2.  **CopyNumberWgs**: Code for identifying CNAs from WGS data.
