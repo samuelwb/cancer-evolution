@@ -2,7 +2,7 @@
 
 # Takes as input a VCF file of mutations and a folder containing
 # copy number data for the same samples and outputs the VCF file
-# with only copy number 4 region mutations included
+# with only copy number 2 region mutations included
 
 import sys
 import os
@@ -50,7 +50,7 @@ for cnvFile in cnvFileList:
 		if chromosome == "MT" or chromosome == "M":
 			continue
 
-		# if this region is not different from normal (between 1.5 and 2.5 log difference from normal) add to chromDict
+		# if this region is not different from normal (between 1.5 and 2.5 absolute copy) add to chromDict
 		if float(absoluteCopy) >= 1.5 and float(absoluteCopy) <= 2.5:
 			chromDict[chromosome][cnvFile].append(start + "-" + end)
 
