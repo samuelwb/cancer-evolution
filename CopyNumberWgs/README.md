@@ -12,7 +12,7 @@ schematically below. This process aids in determining tumor purity and is essent
 identifying subclonal CNAs (with copy number between integer values).
 
 <img src="img/CopyShift.png" width="2000" height="790">
-#![picture](img/CopyShift.png | width=100)
+#![picture](img/CopyShift.png)
 
 The scripts should be executed in the following order:
 
