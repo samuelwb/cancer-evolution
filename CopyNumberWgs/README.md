@@ -13,7 +13,7 @@ identifying subclonal CNAs (with copy number between integer values).
 
 ![picture](img/CopyShift.png)
 
-HIYA! The scripts should be executed in the following order:
+The scripts should be executed in the following order:
 
 * **a_CnaPileup.sh**: Generates a pileup based on aligned BAM input. Requires samtools (such as
 	version 0.1.19).
