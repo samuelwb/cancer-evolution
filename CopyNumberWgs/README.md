@@ -11,7 +11,7 @@ that absolute copy peaks will be centered at 1, 2, 3, 4, etc. instead of shifted
 schematically below. This process aids in determining tumor purity and is essential for
 identifying subclonal CNAs (with copy number between integer values).
 
-![picture](img/CopyShift.png)
+![picture](img/CopyShift.png | width=100)
 
 The scripts should be executed in the following order:
 
